@@ -4,18 +4,20 @@
 
 ### 🎓 BCA Student | 🤖 AI/ML Enthusiast | 📊 Data Analytics | 💻 Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Python+%7C+Data+Analytics+%7C+Web+Development;Building+Projects+and+Learning+Every+Day;Turning+Ideas+Into+Working+Projects+🚀" alt="Typing SVG" />
+<br>
 
-<br><br>
+**Building projects • Learning AI • Exploring Data • Growing as a Developer 🚀**
+
+<br>
 
 <a href="https://github.com/shamir0513">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/saiyad-shamir-bukhari-876324370/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:Shamirsaiyad0875@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -26,13 +28,13 @@
 
 🎓 I'm a **BCA student** passionate about technology, programming, and software development.
 
-🤖 My main areas of interest are **Artificial Intelligence, Machine Learning, Python, and Data Analytics**.
+🤖 My main interests are **Artificial Intelligence, Machine Learning, Python, and Data Analytics**.
 
-💻 I enjoy building practical applications that help me turn what I learn into real-world projects.
+💻 I enjoy building practical projects and turning ideas into working applications.
 
-📊 I have worked on projects involving **data visualization, web development, database management, and AI-powered applications**.
+📊 I've worked on projects involving **data visualization, web development, databases, and AI-powered applications**.
 
-🌱 Currently, I'm focused on improving my knowledge of **AI/ML, Python, Data Science, and modern software development**.
+🌱 Currently improving my skills in **AI/ML, Python, Data Science, and Cloud Computing**.
 
 🚀 My goal is to continuously learn, build meaningful projects, and grow as a technology professional.
 
@@ -40,7 +42,7 @@
 
 # 💻 Tech Stack
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Programming
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php" />
@@ -79,32 +81,36 @@
 
 <td width="50%">
 
-## ⏳ Countdown to New Year
+### ⏳ Countdown to New Year
 
-A responsive countdown website featuring a real-time countdown timer and an interactive web interface.
+A responsive countdown website featuring a real-time countdown timer and interactive interface.
 
-**Technologies**
+**Tech Stack**
 
 `HTML` `CSS` `JavaScript`
 
+<br>
+
 <a href="https://github.com/shamir0513/COUNTDOWN-TO-NEW-YEAR">
-View Repository →
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 
 <td width="50%">
 
-## 🏏 IPL Performance Analytics
+### 🏏 IPL Performance Analytics
 
-An IPL analytics and visualization system built to analyze player and team performance using data-driven insights.
+A data analytics and visualization system for exploring IPL player and team performance using data-driven insights.
 
-**Technologies**
+**Tech Stack**
 
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
+<br>
+
 <a href="https://github.com/shamir0513/IPL-Performance-Analytics-and-Visualization-System">
-View Repository →
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -115,32 +121,36 @@ View Repository →
 
 <td width="50%">
 
-## 💊 Medical Store Management System
+### 💊 Medical Store Management System
 
-A management system designed to handle medical store operations, medicine records, inventory, and database management.
+A management application for handling medical store operations, medicine records, inventory, and database-related tasks.
 
-**Technologies**
+**Tech Stack**
 
 `Python` `Database`
 
+<br>
+
 <a href="https://github.com/shamir0513/MEDICAL-STORE-MANAGEMENT-SYS">
-View Repository →
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 
 <td width="50%">
 
-## 📄 AI Resume Analyser
+### 📄 AI Resume Analyser
 
-An AI-powered resume analysis system designed to evaluate resumes against job descriptions and provide relevant insights and matching information.
+An AI-powered application designed to analyze resumes against job descriptions and provide relevant matching insights.
 
-**Technologies**
+**Tech Stack**
 
 `Python` `AI/ML` `NLP`
 
+<br>
+
 <a href="https://github.com/shamir0513/AI-RESUME-ANALYSER">
-View Repository →
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -150,36 +160,19 @@ View Repository →
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shamir0513&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamir0513&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shamir0513&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 # 🎯 Currently Learning
 
 <div align="center">
 
-| 🤖 AI / ML | 🐍 Python | 📊 Data Science | ☁️ Cloud |
-|:---:|:---:|:---:|:---:|
-| Machine Learning | Advanced Python | Data Analytics | Cloud Computing |
-| NLP | Python Libraries | Data Visualization | Deployment |
+| 🤖 Artificial Intelligence | 🧠 Machine Learning | 📊 Data Science |
+|:---:|:---:|:---:|
+| AI Concepts | ML Algorithms | Data Analysis |
+| AI Applications | Model Building | Data Visualization |
+
+| 🐍 Python | ☁️ Cloud Computing | 🌐 Development |
+|:---:|:---:|:---:|
+| Advanced Python | Cloud Fundamentals | Web Applications |
+| Python Libraries | Deployment | Backend Development |
 
 </div>
 
@@ -191,26 +184,34 @@ View Repository →
 - 🐍 Improving my **Python programming**
 - 📊 Learning **Data Analytics & Visualization**
 - 🧠 Exploring **NLP and AI-powered applications**
-- ☁️ Learning **Cloud Computing and deployment**
+- ☁️ Learning **Cloud Computing**
 - 🚀 Building more practical projects
+- 📚 Strengthening my software development fundamentals
 
 ---
 
-# 📈 My Development Journey
+# 🗺️ My Development Journey
 
 ```text
 Programming
-     ↓
+     │
+     ▼
 Python & Java
-     ↓
+     │
+     ▼
 Web Development
-     ↓
+     │
+     ▼
 Databases
-     ↓
+     │
+     ▼
 Data Analytics
-     ↓
+     │
+     ▼
 Artificial Intelligence
-     ↓
+     │
+     ▼
 Machine Learning
-     ↓
+     │
+     ▼
 AI-Powered Applications 🚀
